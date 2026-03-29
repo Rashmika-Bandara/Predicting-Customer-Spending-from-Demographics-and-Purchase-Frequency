@@ -1,0 +1,501 @@
+name,age,income,purchase_frequency,gender,education,country,spending
+Customer_1,22,34784,24,Female,High School,Australia,3183.05
+Customer_2,58,104751,22,Male,Bachelor,Australia,5807.48
+Customer_3,52,145139,17,Male,High School,India,5327.88
+Customer_4,40,132773,26,Male,High School,India,5351.29
+Customer_5,40,55629,4,Female,Bachelor,Australia,1123.43
+Customer_6,62,79006,27,Male,Bachelor,UK,5179.77
+Customer_7,22,89032,25,Female,PhD,Canada,5757.95
+Customer_8,54,52219,15,Male,Bachelor,Canada,2483.96
+Customer_9,28,54929,22,Female,Master,Australia,4199.26
+Customer_10,22,50766,16,Female,Bachelor,India,2892.77
+Customer_11,45,149295,8,Male,Bachelor,UK,5161.79
+Customer_12,68,116981,24,Male,Bachelor,Canada,6073.2
+Customer_13,56,129311,8,Female,Bachelor,USA,4196.3
+Customer_14,57,126153,10,Male,PhD,Australia,6303.17
+Customer_15,55,144688,16,Male,Bachelor,Canada,5102.03
+Customer_16,58,33686,25,Female,High School,Canada,2667.4
+Customer_17,44,134612,12,Male,Bachelor,Canada,6492.13
+Customer_18,24,28652,15,Male,Master,UK,3251.74
+Customer_19,61,81804,2,Male,High School,Canada,2762.27
+Customer_20,41,97276,4,Male,Bachelor,Australia,3053.96
+Customer_21,44,66521,2,Female,Master,UK,2561.32
+Customer_22,37,39002,3,Female,Master,USA,2112.23
+Customer_23,27,44999,26,Male,PhD,UK,4277.48
+Customer_24,66,127206,25,Male,Bachelor,USA,6036.66
+Customer_25,58,61434,24,Female,Bachelor,UK,4144.52
+Customer_26,51,60343,2,Male,Bachelor,Australia,2231.66
+Customer_27,38,140037,3,Male,PhD,USA,4684.84
+Customer_28,60,38703,9,Male,Bachelor,Australia,1926.18
+Customer_29,46,138984,17,Male,Master,UK,6860.86
+Customer_30,41,139726,10,Female,Bachelor,India,4640.78
+Customer_31,41,97812,15,Male,Bachelor,Australia,4345.63
+Customer_32,29,41519,6,Male,Master,UK,1771.36
+Customer_33,22,40261,22,Female,Bachelor,Canada,3444.64
+Customer_34,46,57013,10,Male,Master,USA,2856.04
+Customer_35,64,95064,2,Female,Bachelor,USA,4408.36
+Customer_36,21,39969,22,Male,Bachelor,India,3553.02
+Customer_37,62,79235,27,Male,Bachelor,India,4014.97
+Customer_38,61,35013,1,Male,Bachelor,USA,1928.13
+Customer_39,32,90236,13,Female,Bachelor,UK,3737.29
+Customer_40,50,22749,24,Female,High School,USA,2356.03
+Customer_41,26,112174,21,Male,High School,UK,4994.49
+Customer_42,57,27201,25,Male,Bachelor,UK,2795.98
+Customer_43,54,45326,13,Male,Bachelor,UK,3270.49
+Customer_44,36,42703,11,Female,Bachelor,Canada,2161.38
+Customer_45,21,128029,21,Male,High School,USA,4862.92
+Customer_46,68,26939,5,Female,Bachelor,India,1309.35
+Customer_47,41,75803,7,Female,High School,Australia,2647.8
+Customer_48,64,96848,18,Female,Master,Australia,5816.99
+Customer_49,53,87079,20,Male,Master,USA,5250.64
+Customer_50,58,108492,4,Male,High School,Australia,4585.25
+Customer_51,57,124403,15,Male,Bachelor,India,6617.68
+Customer_52,28,71171,11,Female,High School,USA,2513.69
+Customer_53,36,127668,15,Female,High School,Australia,4969.79
+Customer_54,42,61338,28,Female,High School,UK,3308.41
+Customer_55,43,147974,3,Male,High School,Australia,4091.23
+Customer_56,20,85588,29,Male,Bachelor,Canada,4764.59
+Customer_57,46,115681,14,Female,Master,India,4809.37
+Customer_58,26,133750,23,Female,High School,USA,5000.62
+Customer_59,56,123044,13,Female,Bachelor,UK,5099.75
+Customer_60,53,130647,10,Female,Master,UK,4874.53
+Customer_61,65,89746,23,Male,PhD,UK,6045.26
+Customer_62,56,25651,20,Male,Bachelor,UK,2118.88
+Customer_63,37,84100,5,Male,High School,UK,4653.94
+Customer_64,68,43594,21,Female,Bachelor,USA,3131.99
+Customer_65,39,135585,22,Female,Bachelor,Australia,6280.76
+Customer_66,34,50776,12,Male,PhD,Canada,2469.57
+Customer_67,65,49649,27,Female,Bachelor,India,5058.13
+Customer_68,37,52420,19,Female,Bachelor,Australia,4189.3
+Customer_69,21,103533,10,Female,High School,USA,4116.54
+Customer_70,42,94260,1,Female,Bachelor,USA,2614.72
+Customer_71,59,143349,20,Male,Master,Canada,6822.91
+Customer_72,27,74114,7,Male,Bachelor,Canada,2475.56
+Customer_73,42,56696,22,Female,Bachelor,UK,4748.29
+Customer_74,24,26403,16,Female,PhD,Australia,3374.42
+Customer_75,53,20919,14,Male,Master,Canada,2301.04
+Customer_76,42,68569,5,Male,Bachelor,Australia,1370.24
+Customer_77,35,140356,21,Female,Bachelor,USA,5715.63
+Customer_78,29,88087,5,Female,Bachelor,India,3950.27
+Customer_79,47,136161,13,Male,Bachelor,UK,6187.56
+Customer_80,52,33217,25,Female,Bachelor,Canada,4057.01
+Customer_81,66,32131,27,Male,High School,Canada,2094.83
+Customer_82,40,128349,29,Male,Master,India,7120.44
+Customer_83,26,33876,28,Female,PhD,UK,4791.03
+Customer_84,61,26755,17,Male,Master,UK,1680.86
+Customer_85,50,72532,6,Female,PhD,UK,3613.11
+Customer_86,54,140229,25,Male,Master,UK,7164.73
+Customer_87,23,109619,24,Female,Master,USA,5876.8
+Customer_88,34,32884,29,Male,Master,USA,2735.14
+Customer_89,57,128827,19,Female,Bachelor,UK,5614.39
+Customer_90,61,129664,5,Male,Bachelor,Canada,4468.54
+Customer_91,40,124090,15,Female,High School,UK,4742.09
+Customer_92,59,137344,13,Male,Bachelor,UK,5157.24
+Customer_93,61,51184,25,Male,High School,Australia,3163.66
+Customer_94,38,147344,12,Male,High School,UK,5124.46
+Customer_95,64,61690,10,Female,Bachelor,India,3386.17
+Customer_96,32,124263,3,Male,Bachelor,Australia,4170.23
+Customer_97,30,95317,25,Female,High School,USA,4483.27
+Customer_98,53,121332,22,Female,Master,UK,6330.17
+Customer_99,51,101616,2,Female,Master,USA,2863.41
+Customer_100,25,103522,13,Female,High School,UK,4426.82
+Customer_101,61,100116,14,Male,High School,UK,4007.79
+Customer_102,28,121269,14,Female,Bachelor,USA,5231.89
+Customer_103,59,116075,27,Female,Master,USA,7085.87
+Customer_104,18,37491,5,Male,Master,Canada,880.02
+Customer_105,59,127387,9,Male,High School,Australia,3222.65
+Customer_106,58,89688,6,Female,Master,UK,4117.77
+Customer_107,58,62000,8,Male,High School,India,2569.73
+Customer_108,52,86848,27,Female,Bachelor,UK,5252.55
+Customer_109,42,145707,28,Male,PhD,India,7624.62
+Customer_110,54,131484,2,Male,High School,UK,4443.68
+Customer_111,32,128380,19,Female,High School,Canada,5776.34
+Customer_112,58,80163,7,Male,Bachelor,Australia,3620.28
+Customer_113,46,121937,6,Female,Bachelor,USA,4471.61
+Customer_114,41,70061,9,Female,PhD,India,2526.74
+Customer_115,44,109201,6,Male,PhD,UK,5206.48
+Customer_116,47,103143,15,Male,High School,Canada,4890.4
+Customer_117,19,52473,29,Female,High School,Australia,4229.01
+Customer_118,25,54640,18,Female,Master,Australia,3262.15
+Customer_119,30,27947,21,Male,High School,USA,2936.35
+Customer_120,23,38169,15,Female,Master,India,3529.59
+Customer_121,40,76370,1,Male,Bachelor,Australia,3701.39
+Customer_122,52,82124,3,Male,High School,India,2254.18
+Customer_123,52,41465,8,Female,Master,Canada,2417.19
+Customer_124,42,74195,8,Male,High School,Australia,3351.63
+Customer_125,62,98543,25,Female,Bachelor,Canada,5385.74
+Customer_126,47,50234,25,Female,Bachelor,India,3231.62
+Customer_127,22,63970,25,Female,Bachelor,India,4562.87
+Customer_128,57,67776,19,Female,Bachelor,India,4325.48
+Customer_129,47,85657,17,Male,Bachelor,Canada,4297.49
+Customer_130,51,67631,19,Male,PhD,Australia,4563.77
+Customer_131,47,115802,12,Female,PhD,UK,5472.95
+Customer_132,46,62574,20,Female,Bachelor,Canada,4784.19
+Customer_133,22,76406,24,Male,High School,Australia,3502.55
+Customer_134,47,69330,23,Female,Master,USA,4318.5
+Customer_135,59,43779,18,Male,PhD,Australia,3529.47
+Customer_136,33,109146,2,Female,Bachelor,USA,4471.75
+Customer_137,49,50608,22,Male,Bachelor,Canada,2669.82
+Customer_138,19,58593,11,Female,Bachelor,Canada,2316.61
+Customer_139,36,123057,22,Male,High School,Canada,3944.9
+Customer_140,40,143351,16,Male,Bachelor,Canada,5920.15
+Customer_141,69,107209,26,Female,Bachelor,Canada,5015.29
+Customer_142,29,139125,10,Male,Master,Canada,5518.92
+Customer_143,32,131044,28,Male,Master,Canada,7342.65
+Customer_144,39,82518,25,Female,Master,Canada,4875.26
+Customer_145,69,120137,10,Male,Bachelor,Australia,4892.88
+Customer_146,62,62686,14,Male,Bachelor,Canada,3150.98
+Customer_147,19,79864,16,Male,Master,Australia,4718.86
+Customer_148,30,89606,23,Female,Master,India,5612.91
+Customer_149,60,144864,20,Female,Bachelor,India,5950.76
+Customer_150,21,130312,25,Female,Master,USA,6707.52
+Customer_151,62,83602,11,Male,High School,Australia,3986.0
+Customer_152,32,104836,15,Male,Master,UK,5279.71
+Customer_153,65,46306,13,Male,High School,USA,1649.58
+Customer_154,33,124570,27,Female,High School,Australia,6047.26
+Customer_155,40,91894,9,Male,Bachelor,USA,3181.05
+Customer_156,52,89253,18,Male,High School,India,4832.34
+Customer_157,24,119616,4,Female,High School,Australia,4582.09
+Customer_158,46,102279,25,Female,High School,India,5090.96
+Customer_159,44,29420,12,Female,Bachelor,Australia,2396.94
+Customer_160,58,57460,10,Male,Master,India,2978.28
+Customer_161,69,42973,17,Female,High School,USA,3182.89
+Customer_162,52,115536,15,Female,Bachelor,India,4888.61
+Customer_163,39,24569,25,Male,Master,USA,3394.38
+Customer_164,39,46312,16,Female,High School,UK,3321.58
+Customer_165,39,97667,15,Female,High School,USA,3780.43
+Customer_166,60,110323,4,Male,Master,Canada,3960.75
+Customer_167,34,85429,1,Female,Master,Australia,2693.88
+Customer_168,26,131893,12,Female,Bachelor,UK,4738.11
+Customer_169,35,139462,29,Female,Master,India,6332.13
+Customer_170,19,37173,27,Female,High School,Australia,3732.07
+Customer_171,23,143826,19,Female,Bachelor,Australia,7345.13
+Customer_172,22,99869,19,Female,Master,India,6191.55
+Customer_173,58,102708,12,Male,High School,Canada,2967.47
+Customer_174,55,32362,6,Female,Master,UK,2531.04
+Customer_175,54,100843,1,Female,Bachelor,India,4473.55
+Customer_176,42,114343,10,Female,Master,Canada,4802.23
+Customer_177,55,95502,10,Male,Bachelor,Australia,4075.93
+Customer_178,26,30984,6,Male,Bachelor,UK,574.78
+Customer_179,64,88019,8,Female,High School,UK,3544.55
+Customer_180,44,141672,1,Female,High School,USA,3722.51
+Customer_181,66,114044,18,Female,Master,UK,5834.41
+Customer_182,25,37863,27,Male,High School,USA,2268.08
+Customer_183,43,144792,21,Male,High School,Australia,6012.6
+Customer_184,54,144654,13,Female,High School,USA,5865.87
+Customer_185,43,42021,13,Male,High School,Australia,1902.16
+Customer_186,41,124114,9,Female,Master,India,4629.74
+Customer_187,26,72873,5,Male,Bachelor,Australia,1667.58
+Customer_188,37,97178,18,Male,PhD,Canada,5205.29
+Customer_189,30,77874,17,Female,High School,USA,3369.14
+Customer_190,33,121741,1,Male,Bachelor,India,3196.62
+Customer_191,53,149565,13,Female,Bachelor,USA,6253.76
+Customer_192,50,123364,9,Female,Bachelor,Australia,4625.94
+Customer_193,49,141078,5,Female,Master,Australia,4892.09
+Customer_194,36,142983,21,Male,PhD,USA,6871.42
+Customer_195,67,31713,16,Male,Master,Australia,3398.28
+Customer_196,22,52939,19,Female,High School,USA,3541.62
+Customer_197,35,113841,21,Male,High School,UK,4773.19
+Customer_198,24,96709,29,Male,Bachelor,India,5847.73
+Customer_199,35,26519,24,Male,High School,India,1999.47
+Customer_200,68,32356,18,Female,Master,UK,3087.36
+Customer_201,37,87671,26,Male,Bachelor,India,5068.52
+Customer_202,65,100101,14,Male,Bachelor,India,4171.13
+Customer_203,43,41803,29,Female,Master,Australia,4526.29
+Customer_204,54,42267,23,Male,Master,USA,3196.19
+Customer_205,41,36814,19,Female,High School,UK,3050.37
+Customer_206,31,93443,27,Female,High School,Australia,5144.58
+Customer_207,57,21020,15,Female,Bachelor,India,525.3
+Customer_208,68,94415,21,Female,Bachelor,India,5641.63
+Customer_209,31,81870,9,Male,High School,Canada,1349.41
+Customer_210,58,80578,28,Male,Bachelor,UK,4547.71
+Customer_211,31,108305,19,Male,Master,India,6095.29
+Customer_212,55,87942,23,Male,Master,UK,4953.95
+Customer_213,59,114607,14,Female,Bachelor,UK,4128.5
+Customer_214,41,119310,26,Female,Bachelor,India,5393.06
+Customer_215,56,139615,3,Female,High School,Canada,5056.25
+Customer_216,32,123901,4,Female,Bachelor,UK,3384.13
+Customer_217,22,87301,15,Female,Bachelor,USA,4941.42
+Customer_218,23,83979,22,Male,Bachelor,Canada,4536.31
+Customer_219,41,50642,24,Male,Bachelor,India,3003.82
+Customer_220,64,97947,13,Female,High School,Canada,3640.2
+Customer_221,24,38087,19,Male,High School,Australia,2060.51
+Customer_222,41,141060,17,Female,High School,UK,5943.86
+Customer_223,54,129855,28,Female,Master,Australia,7476.36
+Customer_224,28,35565,19,Female,Bachelor,Australia,1980.45
+Customer_225,55,122174,13,Female,High School,Australia,4402.04
+Customer_226,33,35223,29,Female,Master,Australia,3533.91
+Customer_227,60,113759,4,Female,Bachelor,Canada,5008.88
+Customer_228,48,31402,29,Female,Bachelor,UK,2827.0
+Customer_229,46,83465,5,Male,PhD,Australia,4733.33
+Customer_230,27,105522,9,Male,High School,India,3796.62
+Customer_231,42,114745,24,Female,High School,India,4488.95
+Customer_232,62,74419,22,Female,Bachelor,UK,3996.21
+Customer_233,19,139811,29,Female,High School,Australia,5719.43
+Customer_234,57,120661,22,Female,Bachelor,USA,5025.06
+Customer_235,43,47074,19,Female,High School,Canada,3078.39
+Customer_236,55,107260,11,Female,High School,Canada,3369.77
+Customer_237,52,114969,1,Female,High School,UK,2331.44
+Customer_238,40,63372,4,Male,Bachelor,India,2373.35
+Customer_239,34,115970,9,Male,High School,India,3016.98
+Customer_240,50,136787,2,Male,High School,USA,3736.95
+Customer_241,25,126224,15,Male,Master,UK,5191.2
+Customer_242,48,119129,23,Female,Bachelor,UK,5296.14
+Customer_243,22,102484,28,Male,Bachelor,India,6775.1
+Customer_244,51,55169,15,Male,High School,Canada,2895.91
+Customer_245,50,123378,26,Male,Bachelor,Australia,6198.56
+Customer_246,22,67344,29,Female,High School,India,3177.95
+Customer_247,57,89185,25,Female,Bachelor,Australia,4678.17
+Customer_248,39,60877,14,Male,High School,USA,3077.86
+Customer_249,58,60692,10,Female,Master,USA,2723.3
+Customer_250,20,40489,29,Female,PhD,UK,5040.96
+Customer_251,27,144968,8,Female,High School,UK,4200.52
+Customer_252,43,39211,12,Female,High School,Australia,2164.88
+Customer_253,27,31213,3,Female,High School,USA,1161.62
+Customer_254,35,141696,24,Male,Bachelor,UK,6549.47
+Customer_255,52,92151,19,Female,High School,UK,3854.28
+Customer_256,25,76927,3,Male,Master,USA,3004.9
+Customer_257,53,115873,7,Male,Master,USA,4611.61
+Customer_258,23,69831,17,Female,Master,USA,3760.49
+Customer_259,27,36629,16,Female,Bachelor,Canada,3109.93
+Customer_260,48,114859,24,Female,PhD,Canada,6773.67
+Customer_261,59,42879,8,Male,High School,Canada,2004.56
+Customer_262,26,91889,27,Male,Bachelor,Canada,4923.39
+Customer_263,33,143378,13,Male,Bachelor,Australia,6154.27
+Customer_264,66,141698,24,Female,PhD,India,7415.08
+Customer_265,69,66901,7,Female,Bachelor,Canada,2868.01
+Customer_266,48,121439,2,Female,Master,Australia,4721.04
+Customer_267,41,99647,2,Female,High School,Australia,4311.42
+Customer_268,36,82318,11,Male,PhD,Australia,3444.51
+Customer_269,49,38190,28,Male,Bachelor,USA,4107.61
+Customer_270,48,68926,2,Male,Bachelor,India,1481.88
+Customer_271,33,104749,11,Male,PhD,USA,5152.95
+Customer_272,19,148262,4,Male,Bachelor,Canada,6092.91
+Customer_273,25,20635,28,Male,Bachelor,Australia,3412.25
+Customer_274,67,113308,20,Male,Bachelor,Canada,5401.62
+Customer_275,39,130023,23,Female,High School,UK,5194.85
+Customer_276,43,143655,21,Male,Bachelor,India,6303.28
+Customer_277,42,75094,20,Male,High School,USA,3586.3
+Customer_278,58,35402,23,Male,High School,UK,2396.77
+Customer_279,21,55225,1,Male,Master,India,2128.36
+Customer_280,22,130569,26,Female,Bachelor,Australia,6506.1
+Customer_281,32,134131,22,Male,Bachelor,USA,5613.6
+Customer_282,43,102819,22,Male,Bachelor,Australia,4650.8
+Customer_283,52,35956,12,Male,Bachelor,India,1562.53
+Customer_284,43,35849,24,Female,Bachelor,USA,3629.91
+Customer_285,40,82162,12,Female,PhD,Canada,4794.78
+Customer_286,66,96473,2,Male,PhD,Canada,4099.81
+Customer_287,26,24209,27,Male,Bachelor,USA,3730.37
+Customer_288,47,109192,7,Male,Bachelor,UK,4253.48
+Customer_289,46,90786,3,Male,Bachelor,USA,3583.79
+Customer_290,42,21599,19,Female,Bachelor,USA,2775.27
+Customer_291,59,32438,7,Female,Bachelor,Canada,1963.22
+Customer_292,31,79061,25,Female,Bachelor,Canada,4448.34
+Customer_293,67,113936,13,Male,Bachelor,UK,6121.57
+Customer_294,35,127301,1,Male,Bachelor,UK,4022.86
+Customer_295,46,76069,28,Male,Bachelor,USA,4382.54
+Customer_296,45,58396,15,Male,Bachelor,Australia,3537.29
+Customer_297,62,145880,8,Female,High School,UK,5097.87
+Customer_298,40,79611,20,Male,High School,India,3016.62
+Customer_299,32,61000,16,Male,Master,Canada,4378.01
+Customer_300,19,77500,1,Female,Bachelor,India,2863.48
+Customer_301,36,21571,23,Male,High School,Australia,1828.36
+Customer_302,60,59250,12,Male,Bachelor,UK,3790.77
+Customer_303,18,87022,21,Male,Master,Australia,5327.92
+Customer_304,64,139397,26,Male,High School,UK,5119.99
+Customer_305,46,115969,18,Male,Master,USA,6713.71
+Customer_306,25,121568,20,Male,PhD,UK,6774.37
+Customer_307,33,90837,8,Male,Bachelor,UK,3718.99
+Customer_308,46,34376,7,Male,Bachelor,USA,2910.41
+Customer_309,34,70820,13,Male,High School,USA,3245.22
+Customer_310,23,149614,25,Female,PhD,India,7899.08
+Customer_311,52,25742,16,Male,Bachelor,Canada,1976.08
+Customer_312,52,134296,11,Female,PhD,Canada,6529.07
+Customer_313,24,108984,23,Female,Bachelor,India,5800.48
+Customer_314,32,56908,25,Male,High School,UK,3592.82
+Customer_315,30,121138,27,Female,High School,Canada,5087.23
+Customer_316,52,128796,9,Male,Bachelor,India,5016.84
+Customer_317,55,25618,21,Male,Bachelor,Australia,2701.66
+Customer_318,55,33834,18,Male,High School,UK,1688.43
+Customer_319,66,106547,14,Male,Master,UK,4135.04
+Customer_320,57,149883,12,Male,Master,USA,6599.3
+Customer_321,34,23115,4,Male,Bachelor,USA,200.0
+Customer_322,23,106539,8,Female,Bachelor,USA,4439.42
+Customer_323,49,37748,16,Male,High School,Australia,2172.35
+Customer_324,65,104516,26,Female,Master,Australia,6838.87
+Customer_325,68,101030,26,Female,Bachelor,Canada,5204.82
+Customer_326,29,31757,6,Female,Master,Australia,2472.22
+Customer_327,30,108494,20,Male,Bachelor,USA,4916.67
+Customer_328,19,136614,3,Female,Bachelor,UK,4911.67
+Customer_329,25,132247,20,Female,High School,UK,5830.77
+Customer_330,46,23769,10,Female,High School,India,1507.23
+Customer_331,46,51969,14,Male,Master,Australia,3847.73
+Customer_332,37,51307,21,Female,Bachelor,India,3037.99
+Customer_333,34,78928,13,Female,Bachelor,UK,4039.6
+Customer_334,61,38592,24,Male,PhD,India,4415.01
+Customer_335,41,131065,16,Male,PhD,USA,6757.76
+Customer_336,60,120979,29,Male,Master,UK,7850.59
+Customer_337,68,125085,19,Female,High School,Canada,4669.73
+Customer_338,34,45766,9,Male,Bachelor,USA,1620.49
+Customer_339,28,21894,23,Male,Master,India,2407.76
+Customer_340,67,138382,12,Female,Bachelor,India,5967.73
+Customer_341,51,57558,16,Male,High School,Canada,3292.82
+Customer_342,33,105314,4,Male,Master,UK,4229.53
+Customer_343,50,138226,4,Female,Bachelor,USA,4293.01
+Customer_344,44,24701,17,Female,Bachelor,Australia,2996.15
+Customer_345,65,20711,6,Female,PhD,Canada,1095.21
+Customer_346,31,20705,29,Female,Bachelor,Australia,4011.52
+Customer_347,69,40322,25,Male,Bachelor,Australia,5199.12
+Customer_348,66,26715,21,Female,Bachelor,USA,3116.32
+Customer_349,27,126597,22,Female,Bachelor,USA,6317.77
+Customer_350,26,98770,18,Male,High School,Australia,3946.07
+Customer_351,45,147406,2,Male,Master,USA,4283.83
+Customer_352,20,124192,12,Male,Master,India,5066.19
+Customer_353,33,145214,15,Male,High School,USA,4637.54
+Customer_354,40,51011,27,Male,Bachelor,Australia,3087.13
+Customer_355,68,57413,7,Male,Master,India,3892.6
+Customer_356,69,130423,15,Female,High School,Canada,5165.64
+Customer_357,25,51834,10,Male,Bachelor,USA,2932.83
+Customer_358,64,27440,4,Female,Bachelor,India,1457.79
+Customer_359,22,106986,3,Female,Bachelor,USA,3850.86
+Customer_360,56,124125,11,Female,High School,Canada,5140.61
+Customer_361,61,145865,3,Female,Bachelor,India,5101.55
+Customer_362,64,140613,2,Male,Bachelor,Australia,5086.81
+Customer_363,29,35629,11,Female,Bachelor,USA,2296.27
+Customer_364,64,120374,6,Male,High School,India,3809.81
+Customer_365,24,129996,17,Female,Bachelor,USA,4850.73
+Customer_366,44,110755,1,Male,Bachelor,Australia,2611.0
+Customer_367,42,126573,9,Male,High School,Australia,4228.03
+Customer_368,34,128937,14,Female,High School,UK,4928.2
+Customer_369,19,78051,28,Male,High School,Canada,3585.7
+Customer_370,58,25219,19,Female,Bachelor,USA,2680.89
+Customer_371,35,79305,26,Male,High School,India,4288.49
+Customer_372,52,46231,10,Male,PhD,UK,1623.86
+Customer_373,39,34784,14,Female,Bachelor,UK,2064.45
+Customer_374,37,36240,13,Female,Master,Canada,3033.13
+Customer_375,64,110658,26,Male,PhD,Australia,6752.44
+Customer_376,22,85589,28,Male,High School,Canada,3868.7
+Customer_377,56,90179,28,Male,Bachelor,Canada,5300.44
+Customer_378,56,116874,22,Female,Master,Canada,6743.76
+Customer_379,37,91274,15,Female,Bachelor,India,4849.46
+Customer_380,31,101901,16,Male,Bachelor,UK,4599.86
+Customer_381,18,31183,29,Male,Bachelor,India,3229.7
+Customer_382,66,130647,9,Male,High School,Australia,4117.36
+Customer_383,67,78341,11,Male,Bachelor,India,3855.92
+Customer_384,30,40177,27,Female,PhD,India,4429.92
+Customer_385,19,125732,12,Female,PhD,Australia,6348.4
+Customer_386,24,115500,7,Male,High School,UK,4030.12
+Customer_387,21,26893,17,Female,Master,Australia,3301.19
+Customer_388,61,45095,10,Male,Bachelor,Australia,2559.61
+Customer_389,64,22047,26,Male,Master,UK,3723.14
+Customer_390,25,55198,27,Male,High School,Australia,4195.34
+Customer_391,56,32997,9,Male,PhD,UK,1891.93
+Customer_392,27,112287,16,Male,Master,Canada,4281.21
+Customer_393,37,87931,29,Female,High School,Australia,5725.73
+Customer_394,49,147426,22,Female,High School,USA,6087.5
+Customer_395,55,117425,7,Male,Master,UK,3774.88
+Customer_396,63,99500,18,Female,High School,Australia,3941.21
+Customer_397,20,86210,18,Female,Bachelor,Canada,4919.42
+Customer_398,28,27085,19,Female,Master,India,2810.35
+Customer_399,32,29126,1,Female,Bachelor,USA,1161.54
+Customer_400,34,100120,9,Male,Bachelor,Australia,4919.13
+Customer_401,69,20569,25,Female,Bachelor,India,2383.7
+Customer_402,58,25505,7,Female,High School,India,1150.24
+Customer_403,34,48487,9,Female,PhD,USA,3173.88
+Customer_404,68,134938,10,Male,Bachelor,India,5432.41
+Customer_405,43,79660,6,Male,High School,UK,3213.63
+Customer_406,44,112245,5,Male,High School,UK,4274.86
+Customer_407,40,73503,11,Male,PhD,UK,4063.75
+Customer_408,25,42506,26,Male,High School,Australia,3556.29
+Customer_409,66,68250,1,Male,Master,Australia,2568.77
+Customer_410,18,31923,9,Female,Master,Canada,2362.52
+Customer_411,27,120132,2,Male,Master,USA,4550.8
+Customer_412,29,43859,17,Female,PhD,India,3706.44
+Customer_413,32,68928,8,Male,Master,UK,3776.79
+Customer_414,24,147403,23,Female,PhD,USA,8000.24
+Customer_415,18,96955,17,Male,High School,Canada,4151.82
+Customer_416,53,79612,23,Female,Master,Canada,4518.55
+Customer_417,68,90591,19,Male,Bachelor,Australia,4583.33
+Customer_418,24,121930,13,Male,Bachelor,India,5016.09
+Customer_419,33,53082,25,Male,Master,USA,4292.77
+Customer_420,44,102733,14,Female,PhD,UK,6673.7
+Customer_421,66,133449,28,Male,Master,Canada,6709.48
+Customer_422,54,94413,29,Female,Bachelor,Australia,5780.76
+Customer_423,57,78050,18,Female,Bachelor,Australia,4852.58
+Customer_424,48,38866,20,Male,Bachelor,UK,3124.78
+Customer_425,39,52277,8,Male,Bachelor,Australia,3971.02
+Customer_426,28,142983,24,Male,Bachelor,India,6262.67
+Customer_427,62,90363,20,Male,High School,Canada,4344.25
+Customer_428,59,59174,27,Male,High School,India,3300.91
+Customer_429,19,74387,8,Male,Master,Australia,3279.22
+Customer_430,55,95142,23,Female,Bachelor,UK,5248.62
+Customer_431,22,89881,14,Male,PhD,UK,5276.18
+Customer_432,56,110970,6,Male,Bachelor,Australia,4370.56
+Customer_433,60,53474,5,Female,High School,UK,3004.77
+Customer_434,24,104400,17,Female,High School,UK,4377.32
+Customer_435,40,77548,10,Male,High School,UK,2929.49
+Customer_436,24,142277,3,Male,PhD,Australia,7249.7
+Customer_437,47,40529,13,Male,High School,UK,2568.33
+Customer_438,66,39297,19,Female,Bachelor,Australia,2692.22
+Customer_439,22,80015,10,Female,PhD,India,3804.46
+Customer_440,38,86085,28,Male,PhD,India,5279.32
+Customer_441,68,109813,23,Male,High School,India,5439.39
+Customer_442,33,72524,15,Male,High School,USA,3112.02
+Customer_443,24,138783,28,Female,High School,Canada,6181.56
+Customer_444,43,81641,13,Male,High School,UK,3403.7
+Customer_445,44,36813,5,Male,High School,India,2130.35
+Customer_446,52,35498,2,Male,Bachelor,Australia,1106.89
+Customer_447,34,146542,28,Male,Master,UK,6802.62
+Customer_448,67,37432,28,Female,Bachelor,Canada,3877.54
+Customer_449,45,143220,22,Male,Bachelor,Australia,6707.18
+Customer_450,32,56149,3,Male,High School,Canada,2278.04
+Customer_451,67,32143,9,Female,Master,Canada,1846.36
+Customer_452,66,59611,2,Female,Bachelor,USA,2864.82
+Customer_453,43,99910,2,Male,Master,Canada,3384.77
+Customer_454,19,75627,8,Male,PhD,UK,3446.21
+Customer_455,49,122125,17,Female,Bachelor,India,4892.38
+Customer_456,46,99428,2,Male,High School,India,3960.25
+Customer_457,25,72101,29,Female,High School,Australia,4752.28
+Customer_458,50,102501,14,Female,Bachelor,USA,5008.03
+Customer_459,61,146290,8,Female,PhD,India,7083.33
+Customer_460,23,73535,15,Male,Bachelor,UK,5418.64
+Customer_461,55,39947,23,Female,Master,Canada,2693.35
+Customer_462,25,73141,10,Female,Bachelor,India,3021.2
+Customer_463,56,129214,2,Male,High School,India,3614.07
+Customer_464,39,48291,2,Female,Bachelor,USA,1608.24
+Customer_465,18,143388,25,Female,Bachelor,UK,6050.09
+Customer_466,68,96479,4,Female,Bachelor,Australia,3534.58
+Customer_467,26,98204,19,Male,Bachelor,Canada,4041.16
+Customer_468,48,61215,12,Male,High School,UK,3023.83
+Customer_469,27,139659,23,Female,Master,Canada,6980.57
+Customer_470,66,24687,2,Male,High School,India,1450.17
+Customer_471,56,58827,27,Female,PhD,UK,5260.92
+Customer_472,59,74392,21,Female,High School,Australia,4255.89
+Customer_473,40,82045,14,Female,High School,Australia,3404.17
+Customer_474,42,81637,7,Male,Bachelor,India,4646.8
+Customer_475,50,39230,29,Female,Bachelor,UK,4012.56
+Customer_476,58,49327,9,Male,Bachelor,UK,1437.32
+Customer_477,62,32381,15,Female,Bachelor,Canada,2015.0
+Customer_478,18,94419,12,Male,PhD,Canada,3708.15
+Customer_479,52,65612,7,Male,Bachelor,Canada,2903.76
+Customer_480,23,93550,13,Female,Bachelor,Australia,4228.42
+Customer_481,32,96662,5,Female,Bachelor,Australia,3513.8
+Customer_482,61,111260,1,Female,High School,UK,4746.08
+Customer_483,31,91114,9,Male,Bachelor,Australia,4137.81
+Customer_484,59,104233,4,Female,High School,UK,3987.95
+Customer_485,42,96329,13,Female,Bachelor,Canada,3826.23
+Customer_486,30,104816,26,Female,High School,USA,4453.55
+Customer_487,35,100163,5,Female,PhD,UK,4506.96
+Customer_488,45,61107,1,Male,Bachelor,India,2412.01
+Customer_489,57,52016,4,Male,Master,Canada,1327.53
+Customer_490,49,122366,15,Female,Bachelor,Australia,5207.8
+Customer_491,66,64551,8,Female,High School,USA,2759.32
+Customer_492,63,91388,15,Male,Master,Australia,4478.88
+Customer_493,57,45606,1,Male,Bachelor,UK,1355.15
+Customer_494,49,76084,10,Female,Master,Australia,3513.0
+Customer_495,33,88856,12,Female,Bachelor,India,3979.56
+Customer_496,39,101381,13,Male,Bachelor,Canada,4470.91
+Customer_497,24,88428,16,Female,Master,USA,5085.54
+Customer_498,37,66885,23,Female,Bachelor,Canada,4900.06
+Customer_499,66,145030,14,Male,Bachelor,USA,5624.29
+Customer_500,40,86656,25,Male,Bachelor,Canada,4600.99
